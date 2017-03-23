@@ -1,0 +1,3 @@
+group { 'Jennifer': 
+  ensure => 'present',
+}
